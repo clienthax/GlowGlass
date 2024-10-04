@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "glowglass:cyan_stained_glowglass"
+    }
+  },
+  "result": {
+    "id": "glowglass:cyan_stained_glowglass_pane",
+    "count": 16
+  }
+}

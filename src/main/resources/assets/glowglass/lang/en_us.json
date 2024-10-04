@@ -1,0 +1,46 @@
+{
+  "block.glowglass.glowsand": "GlowSand",
+
+  "_comment": "Blocks",
+
+  "block.glowglass.glowglass": "GlowGlass",
+  "block.glowglass.red_stained_glowglass": "Red Stained GlowGlass",
+  "block.glowglass.orange_stained_glowglass": "Orange Stained GlowGlass",
+  "block.glowglass.yellow_stained_glowglass": "Yellow Stained GlowGlass",
+  "block.glowglass.lime_stained_glowglass": "Lime Stained GlowGlass",
+  "block.glowglass.green_stained_glowglass": "Green Stained GlowGlass",
+  "block.glowglass.cyan_stained_glowglass": "Cyan Stained GlowGlass",
+  "block.glowglass.light_blue_stained_glowglass": "Light Blue Stained GlowGlass",
+  "block.glowglass.blue_stained_glowglass": "Blue Stained GlowGlass",
+  "block.glowglass.purple_stained_glowglass": "Purple Stained GlowGlass",
+  "block.glowglass.magenta_stained_glowglass": "Magenta Stained GlowGlass",
+  "block.glowglass.pink_stained_glowglass": "Pink Stained GlowGlass",
+  "block.glowglass.brown_stained_glowglass": "Brown Stained GlowGlass",
+  "block.glowglass.white_stained_glowglass": "White Stained GlowGlass",
+  "block.glowglass.light_gray_stained_glowglass": "Light Gray Stained GlowGlass",
+  "block.glowglass.gray_stained_glowglass": "Gray Stained GlowGlass",
+  "block.glowglass.black_stained_glowglass": "Black Stained GlowGlass",
+
+  "_comment": "Panes",
+
+  "block.glowglass.glowglass_pane": "GlowGlass Pane",
+  "block.glowglass.red_stained_glowglass_pane": "Red Stained GlowGlass Pane",
+  "block.glowglass.orange_stained_glowglass_pane": "Orange Stained GlowGlass Pane",
+  "block.glowglass.yellow_stained_glowglass_pane": "Yellow Stained GlowGlass Pane",
+  "block.glowglass.lime_stained_glowglass_pane": "Lime Stained GlowGlass Pane",
+  "block.glowglass.green_stained_glowglass_pane": "Green Stained GlowGlass Pane",
+  "block.glowglass.cyan_stained_glowglass_pane": "Cyan Stained GlowGlass Pane",
+  "block.glowglass.light_blue_stained_glowglass_pane": "Light Blue Stained GlowGlass Pane",
+  "block.glowglass.blue_stained_glowglass_pane": "Blue Stained GlowGlass Pane",
+  "block.glowglass.purple_stained_glowglass_pane": "Purple Stained GlowGlass Pane",
+  "block.glowglass.magenta_stained_glowglass_pane": "Magenta Stained GlowGlass Pane",
+  "block.glowglass.pink_stained_glowglass_pane": "Pink Stained GlowGlass Pane",
+  "block.glowglass.brown_stained_glowglass_pane": "Brown Stained GlowGlass Pane",
+  "block.glowglass.white_stained_glowglass_pane": "White Stained GlowGlass Pane",
+  "block.glowglass.light_gray_stained_glowglass_pane": "Light Gray Stained GlowGlass Pane",
+  "block.glowglass.gray_stained_glowglass_pane": "Gray Stained GlowGlass Pane",
+  "block.glowglass.black_stained_glowglass_pane": "Black Stained GlowGlass Pane",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.glowglass": "GlowGlass"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "glowglass:block/glowsand" },
+      { "model": "glowglass:block/glowsand", "y": 90 },
+      { "model": "glowglass:block/glowsand", "y": 180 },
+      { "model": "glowglass:block/glowsand", "y": 270 }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stained_glass",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "glowglass:glowglass"
+    },
+    "X": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "result": {
+    "id": "glowglass:gray_stained_glowglass",
+    "count": 8
+  }
+}
